@@ -109,22 +109,27 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/karambyte3/express-supreme-adventure.git
    ```
 2. Install NPM packages
+
    ```sh
    npm install
    ```
 3. Install nodemon
+
    ```sh
    npm install nodemon -g
    ```
 4. Run the APP
+
    ```sh
    nodemon
    ```
 5. Run the Sass compiler
+
     ```sh
     npm run scss
     ```
@@ -139,20 +144,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/karambyte3/express-supreme-adventure/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,20 +179,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Stefan Kalenderov - stefankalenderov@gmail.com
 
 Project Link: [https://github.com/karambyte3/express-supreme-adventure](https://github.com/karambyte3/express-supreme-adventure)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
