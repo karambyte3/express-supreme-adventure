@@ -110,27 +110,27 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 1. Clone the repo
 
-   ```sh
+   ```js
    git clone https://github.com/karambyte3/express-supreme-adventure.git
    ```
 2. Install NPM packages
 
-   ```sh
+   ```js
    npm install
    ```
 3. Install nodemon
 
-   ```sh
+   ```js
    npm install nodemon -g
    ```
 4. Run the APP
 
-   ```sh
+   ```js
    nodemon
    ```
 5. Run the Sass compiler
 
-    ```sh
+    ```js
     npm run scss
     ```
 
