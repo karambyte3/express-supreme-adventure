@@ -189,15 +189,15 @@ Project Link: [https://github.com/karambyte3/express-supreme-adventure](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/karambyte3/express-supreme-adventure.svg?style=for-the-badge
 [contributors-url]: https://github.com/karambyte3/express-supreme-adventure/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/karambyte3/express-supreme-adventure.svg?style=for-the-badge
 [forks-url]: https://github.com/karambyte3/express-supreme-adventure/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/karambyte3/express-supreme-adventure.svg?style=for-the-badge
 [stars-url]: https://github.com/karambyte3/express-supreme-adventure/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/karambyte3/express-supreme-adventure.svg?style=for-the-badge
 [issues-url]: https://github.com/karambyte3/express-supreme-adventure/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/karambyte3/express-supreme-adventure.svg?style=for-the-badge
 [license-url]: https://github.com/karambyte3/express-supreme-adventure/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
