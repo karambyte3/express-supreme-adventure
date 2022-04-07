@@ -33,7 +33,7 @@ NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="public/images/readme-github/logo.webp" alt="Logo" width="120" height="120">
+    <img src="public/images/readme-github/logo.webp" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">Express Supreme Adventure Project</h3>
