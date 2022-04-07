@@ -1,4 +1,4 @@
-# Express Supreme Adventure Project
+# Express Supreme Adventure Project :smiling_imp:
 NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
 
 <div id="top"></div>
