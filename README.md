@@ -32,7 +32,7 @@ NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/karambyte3/express-supreme-adventure">
     <img src="public/images/readme-github/logo.webp" alt="Logo" width="300" height="300">
   </a>
 
@@ -41,14 +41,14 @@ NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/karambyte3/express-supreme-adventure"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/karambyte3/express-supreme-adventure">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/karambyte3/express-supreme-adventure/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/karambyte3/express-supreme-adventure/issues">Request Feature</a>
   </p>
 </div>
 
@@ -95,48 +95,39 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
+* [Node.js](https://nodejs.org)
+* [Express.js](https://expressjs.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [Sass.scss](https://sass-lang.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/karambyte3/express-supreme-adventure.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Install nodemon
+   ```sh
+   npm install nodemon -g
    ```
+4. Run the APP
+   ```sh
+   nodemon
+   ```
+5. Run the Sass compiler
+    ```sh
+    npm run scss
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -161,7 +152,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/karambyte3/express-supreme-adventure/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -199,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/karambyte3/express-supreme-adventure](https://github.com/karambyte3/express-supreme-adventure)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -219,15 +210,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/karambyte3/express-supreme-adventure/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-url]: https://github.com/karambyte3/express-supreme-adventure/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/karambyte3/express-supreme-adventure/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/karambyte3/express-supreme-adventure/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/karambyte3/express-supreme-adventure/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: public/images/readme-github/screenshot.png
