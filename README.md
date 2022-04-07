@@ -1,4 +1,4 @@
-# express-supreme-adventure
+# Express Supreme Adventure Project
 NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
 
 <div id="top"></div>
@@ -33,10 +33,10 @@ NodeJS Express project (NodeJs, ExpressJs, Handlebars, Sass...)
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="public/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/images/readme-github/logo.webp" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Express Supreme Adventure Project</h3>
 
   <p align="center">
     project_description
