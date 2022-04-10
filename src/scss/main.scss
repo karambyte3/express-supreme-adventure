@@ -2,11 +2,36 @@
 @import 'components/note';
 
 body {
-    padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+    width: 100%;
 }
 
 a {
     color: #00B7FF;
 
+}
+
+$note-bg: rgba(0, 0, 0, 0.33);
+
+.notes-page-main {
+    min-height: 100vh;
+
+    .list-group-item {
+        background-color: $note-bg;
+        border: none;
+        color: rgb(255, 255, 255);
+        height: 300px;
+
+        .add-icon {
+            position: absolute;
+            transform: translate(-50%, -58%);
+            text-align: center;
+            font-size: 200px;
+            width: 200px;
+            height: 200px;
+            top: 50%;
+            left: 50%;
+        }
+    }
 }
