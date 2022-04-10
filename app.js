@@ -3,20 +3,15 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-var Handlebars = require('hbs');
-
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var notesAppRouter = require('./routes/notesApp.js');
+var initViewEngine = require('./helpers/viewEngineHelper').initViewEngine;
 
 var app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'hbs');
-Handlebars.registerHelper('stringify', function(context) {
-  return JSON.stringify(context);
-});
+initViewEngine(app, __dirname);
 
 app.use(logger('dev'));
 app.use(express.json());
